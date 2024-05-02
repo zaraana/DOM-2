@@ -1,5 +1,4 @@
 # Timeouts and intervals
-
 ![timeout](1.Timeouts-Intervals/assets/img/timeout.gif)
 
 # Exercise 1
