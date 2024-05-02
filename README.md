@@ -1,7 +1,7 @@
 # 𝘿𝙊𝙈 2️⃣
 
 ## ɴᴇᴡ ᴅᴏᴍ ғᴇᴀᴛᴜʀᴇs ᴛᴏ ᴅɪsᴄᴏᴠᴇʀ....
-![yuppie](/assets/img/exited.gif)
+![exited](1.Timeouts-Intervals/assets/img/exited.gif)
 
 
 ## Table of contents:
