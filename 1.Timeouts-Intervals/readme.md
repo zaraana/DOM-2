@@ -1,5 +1,5 @@
 # Timeouts and intervals
-![timeout](1.Timeouts-Intervals/assets/img/timeout.gif)
+![timeout](1.Timeouts-Intervals/assets/img/TIMEOUT.gif)
 
 # Exercise 1
 ᴡʀɪᴛᴇ ᴀ ғᴜɴᴄᴛɪᴏɴ ᴛʜᴀᴛ ᴍɪᴍɪᴄs ᴛʜᴇ ʙᴇʜᴀᴠɪᴏᴜʀ ᴏғ ᴀ ᴛʏᴘᴇᴡʀɪᴛᴇʀ.
