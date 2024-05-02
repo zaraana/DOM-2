@@ -1,7 +1,10 @@
-# Exercise 1
-Write a function that mimics the behaviour of a typewriter.
+# Timeouts and intervals
 
-Using setInterval display the word Keller one character at a time (one letter per second). Once the word is written on the screen clear the interval.
+![timeout](1.Timeouts-Intervals/assets/img/timeout.gif)
+
+# Exercise 1
+ᴡʀɪᴛᴇ ᴀ ғᴜɴᴄᴛɪᴏɴ ᴛʜᴀᴛ ᴍɪᴍɪᴄs ᴛʜᴇ ʙᴇʜᴀᴠɪᴏᴜʀ ᴏғ ᴀ ᴛʏᴘᴇᴡʀɪᴛᴇʀ.
+ᴜsɪɴɢ sᴇᴛɪɴᴛᴇʀᴠᴀʟ ᴅɪsᴘʟᴀʏ ᴛʜᴇ ᴡᴏʀᴅ ᴋᴇʟʟᴇʀ ᴏɴᴇ ᴄʜᴀʀᴀᴄᴛᴇʀ ᴀᴛ ᴀ ᴛɪᴍᴇ (ᴏɴᴇ ʟᴇᴛᴛᴇʀ ᴘᴇʀ sᴇᴄᴏɴᴅ). ᴏɴᴄᴇ ᴛʜᴇ ᴡᴏʀᴅ ɪs ᴡʀɪᴛᴛᴇɴ ᴏɴ ᴛʜᴇ sᴄʀᴇᴇɴ ᴄʟᴇᴀʀ ᴛʜᴇ ɪɴᴛᴇʀᴠᴀʟ.
 
 # Exercise 2
-Write a function that displays every second that has passed on the page since it was opened. The display should be refreshed every second. If 60 seconds are elapsed, write "a minute has passed", then "2 minutes have passed" (for 120 seconds and more), etc.
+𝙒𝙧𝙞𝙩𝙚 𝙖 𝙛𝙪𝙣𝙘𝙩𝙞𝙤𝙣 𝙩𝙝𝙖𝙩 𝙙𝙞𝙨𝙥𝙡𝙖𝙮𝙨 𝙚𝙫𝙚𝙧𝙮 𝙨𝙚𝙘𝙤𝙣𝙙 𝙩𝙝𝙖𝙩 𝙝𝙖𝙨 𝙥𝙖𝙨𝙨𝙚𝙙 𝙤𝙣 𝙩𝙝𝙚 𝙥𝙖𝙜𝙚 𝙨𝙞𝙣𝙘𝙚 𝙞𝙩 𝙬𝙖𝙨 𝙤𝙥𝙚𝙣𝙚𝙙. 𝙏𝙝𝙚 𝙙𝙞𝙨𝙥𝙡𝙖𝙮 𝙨𝙝𝙤𝙪𝙡𝙙 𝙗𝙚 𝙧𝙚𝙛𝙧𝙚𝙨𝙝𝙚𝙙 𝙚𝙫𝙚𝙧𝙮 𝙨𝙚𝙘𝙤𝙣𝙙. 𝙄𝙛 60 𝙨𝙚𝙘𝙤𝙣𝙙𝙨 𝙖𝙧𝙚 𝙚𝙡𝙖𝙥𝙨𝙚𝙙, 𝙬𝙧𝙞𝙩𝙚 "𝙖 𝙢𝙞𝙣𝙪𝙩𝙚 𝙝𝙖𝙨 𝙥𝙖𝙨𝙨𝙚𝙙", 𝙩𝙝𝙚𝙣 "2 𝙢𝙞𝙣𝙪𝙩𝙚𝙨 𝙝𝙖𝙫𝙚 𝙥𝙖𝙨𝙨𝙚𝙙" (𝙛𝙤𝙧 120 𝙨𝙚𝙘𝙤𝙣𝙙𝙨 𝙖𝙣𝙙 𝙢𝙤𝙧𝙚), 𝙚𝙩𝙘.
