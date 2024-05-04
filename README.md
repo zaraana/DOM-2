@@ -1,4 +1,4 @@
-# JS [![JS](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+ [![JS](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 ## ɴᴇᴡ ᴅᴏᴍ ғᴇᴀᴛᴜʀᴇs ᴛᴏ ᴅɪsᴄᴏᴠᴇʀ....
 ![exited](1.Timeouts-Intervals/assets/img/exited.gif)
