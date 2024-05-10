@@ -33,3 +33,6 @@ function daysSinceSeventies(date){
 const today = new Date();
 const daysSinceToday = daysSinceSeventies(today);
 console.log(`Days Since 70's : ${daysSinceToday}😯`);
+
+
+//Ex 3
