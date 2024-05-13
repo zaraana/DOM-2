@@ -9,17 +9,10 @@
 //                               Handled with: Callbacks, Promises, Async/Await
 
 
-
-
 // Promise = An Object that manages asynchronous operations.
 //                    Wrap a Promise Object around {asynchronous code}
 //                    "I promise to return a value"
 
-// DO THESE CHORES IN ORDER
-
-// 1. WALK THE DOG
-// 2. CLEAN THE KITCHEN
-// 3. TAKE OUT THE TRASH
 
 
 // fetch = Function used for making HTTP requests to fetch resources.
@@ -49,4 +42,6 @@ button.addEventListener('click', function(){
         console.log("There was an error!", error);
     });
 });
+
+
 
